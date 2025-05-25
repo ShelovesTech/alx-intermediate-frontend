@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["1-color_variable.scss"],"sourcesContent":["$font-stack: Helvetica, sans-serif;\r\n$primary-color: #3D3D3D; \r\n\r\n.body {\r\n  font: 100% $font-stack;\r\n  color: $primary-color;\r\n}\r\n\r\n.p {\r\n  color: #3D3D3D;\r\n}\r\n"],"file":"1-color_variable.css"}
