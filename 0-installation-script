@@ -1,0 +1,3 @@
+How i installed saas or syntactically awesomenstyle sheets
+After going through the sass documentation at sass.lang.com using the vs code terminal i installed sass using the command 
+npm install -g sass
